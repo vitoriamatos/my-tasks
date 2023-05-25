@@ -37,7 +37,7 @@ export const Field = styled.input`
   font-weight: bold;
   color: #666666;
   width: 100%;
-  border: 2px solid gray;
+  border: 1px solid gray;
 `
 
 export const Button = styled.button`

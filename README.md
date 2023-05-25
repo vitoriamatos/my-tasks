@@ -1,3 +1,21 @@
+
+# MY TASKS
+
+Project of a task manager developed in React and without database integration
+
+It has the following functionalities:
+
+* create a new task, assigning it a description, status and priority
+
+* edit task description
+
+* delete a task
+
+* mark it as done
+
+* list according to side filters
+
+![Workspace](/workspace.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
